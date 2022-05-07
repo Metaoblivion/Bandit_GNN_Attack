@@ -4,12 +4,12 @@ This repo contains the code, data and results reported in our paper.
 
 If you make use of the code/experiment in your work, please cite our paper (Bibtex below).
 
-@inproceedings{xu2018how,
+```@inproceedings{xu2018how,
 title={Bandits for Structure Perturbation-based Black-box Attacks to Graph Neural Networks with Theoretical Guarantees},
 author={Wang, Binghui and Li, Youqi and Zhou, Pan},
 booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
 year={2022}
-}
+}```
 
 # Requirement
 
