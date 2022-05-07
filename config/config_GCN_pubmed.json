@@ -1,0 +1,17 @@
+{
+	"queriesNumber": 100,
+	"model": "GCN",
+	"dataset": "pubmed",
+	"dataset_path": "data/node_classification/pubmed",
+	"model_definition_file": "models.GCN_model",
+	"model_path": "modeldata/GCN_pubmed_state_dict.pkl",
+	"attackSet": "attackSet/targetnodeset_pubmed.pkl",
+	"nfeat": 500,
+	"nhid": 16,
+	"nclass": 3,
+	"dropout": 0.5,
+	"eta": 0.01,
+	"delta": 0.0001,
+	"alpha": 0.7,
+	"B": 2
+}

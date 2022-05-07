@@ -1,0 +1,16 @@
+{
+	"queriesNumber": 100,
+	"model": "SGC",
+	"dataset": "cora",
+	"dataset_path": "data/node_classification/cora",
+	"model_definition_file": "models.SGC_model",
+	"model_path": "modeldata/SGC_cora_state_dict.pkl",
+	"attackSet": "attackSet/targetnodeset_cora.pkl",
+	"nfeat": 1433,
+	"nclass": 7,
+	"dropout": 0.5,
+	"eta": 0.01,
+	"delta": 0.0001,
+	"alpha": 0.7,
+	"B": 2
+}

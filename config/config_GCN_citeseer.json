@@ -1,0 +1,17 @@
+{
+	"queriesNumber": 100,
+	"model": "GCN",
+	"dataset": "citeseer",
+	"dataset_path": "data/node_classification/citeseer",
+	"model_definition_file": "models.GCN_model",
+	"model_path": "modeldata/GCN_citeseer_state_dict.pkl",
+	"attackSet": "attackSet/targetnodeset_citeseer.pkl",
+	"nfeat": 3703,
+	"nhid": 16,
+	"nclass": 6,
+	"dropout": 0.5,
+	"eta": 0.01,
+	"delta": 0.0001,
+	"alpha": 0.7,
+	"B": 2
+}

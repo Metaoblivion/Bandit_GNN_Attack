@@ -1,0 +1,17 @@
+{
+	"queriesNumber": 100,
+	"model": "GCN",
+	"dataset": "cora",
+	"dataset_path": "data/node_classification/cora",
+	"model_definition_file": "models.GCN_model",
+	"model_path": "modeldata/GCN_cora_state_dict.pkl",
+	"attackSet": "attackSet/targetnodeset_cora.pkl",
+	"nfeat": 1433,
+	"nhid": 16,
+	"nclass": 7,
+	"dropout": 0.5,
+	"eta": 0.01,
+	"delta": 0.0001,
+	"alpha": 0.7,
+	"B": 2
+}
